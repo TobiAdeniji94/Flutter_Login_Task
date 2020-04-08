@@ -1,7 +1,10 @@
-gradle-wrapper.jar
+*.iml
+*.class
 /.gradle
 /captures/
-/gradlew
-/gradlew.bat
+/build
+/.idea/libraries
+/.idea/workspace.xml
+.DS_Store
 /local.properties
 GeneratedPluginRegistrant.java
